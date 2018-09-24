@@ -1,0 +1,2 @@
+<p>Welcome to the home page.
+Thank you for stopping by.</p>
